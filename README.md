@@ -2137,7 +2137,7 @@ Markdown format:
  
 - Mask-based Invisible Backdoor Attacks on Object Detection.
   [[pdf]](https://arxiv.org/pdf/2405.09550)
-  - Jeongjin Shin. arXiv, 2024.
+  - Jeongjin Shin. *ICIP*, 2024.
 
 - TAT: Targeted Backdoor Attacks against Visual Object Tracking.
   [[link]](https://www.sciencedirect.com/science/article/pii/S0031320323003308)
